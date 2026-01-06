@@ -32,7 +32,7 @@ Track applicants, shortlist candidates, and monitor the recruitment funnel.
 
 Leverages OpenAI GPT-based API to create SEO-friendly, personalized job descriptions, making hiring faster and more effective.
 
-⚙️ Features
+#⚙️ Features
 
 ✅ User Authentication — Secure signup & login with JWT.
 ✅ AI Job Description Generator — Generate optimized job posts automatically.
